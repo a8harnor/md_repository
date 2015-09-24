@@ -1,2 +1,2 @@
 # md_repository
-repostiroy for markdown files 
+Repository for markdown files 
